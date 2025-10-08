@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 and welcome to my Github page
+
+My name is Filip and im a software developer from Sweden, currently studying at Chas Academy.
+
+- **My skills:** C, C++, C#, Python, and HTML
+
+
 
 <!--
 **Filipanderssondev/filipanderssondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
