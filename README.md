@@ -9,7 +9,6 @@ My name is Filip and im a software developer student / Beginner DevOps practitio
 - Python
 - HTML
 - CSS
-- 
 
 
 <!--
