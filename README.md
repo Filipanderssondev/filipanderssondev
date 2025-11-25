@@ -1,9 +1,15 @@
-## Hi there 👋 and welcome to my Github page
+## Hello to you!
 
-My name is Filip and im a software developer from Sweden, currently studying at Chas Academy.
+My name is Filip and im a software developer student / Beginner DevOps practitioner from Sweden, currently studying at Chas Academy and doing my internship at SMHI (The Swedish Meteorological and Hydrological Institute)
 
-- **My skills:** C, C++, C#, Python, and HTML
-
+- **My skills:**
+- C,
+- C++
+- C#
+- Python
+- HTML
+- CSS
+- 
 
 
 <!--
