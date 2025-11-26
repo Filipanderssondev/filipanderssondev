@@ -1,8 +1,8 @@
-## Hello to you!
+# Hello friend! Welcome to my realm
 
-My name is Filip and im a software developer student / Beginner DevOps practitioner from Sweden, currently studying at Chas Academy and doing my internship at SMHI (The Swedish Meteorological and Hydrological Institute)
+My name is Filip and im a software developer student & beginner DevOps practitioner from Sweden, currently studying at Chas Academy and doing my internship at [SMHI's](https://www.smhi.se/en/about-smhi) headquarters IT-department
 
-- **My skills:**
+## My skills:
 - C,
 - C++
 - C#
