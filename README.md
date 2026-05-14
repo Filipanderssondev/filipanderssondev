@@ -20,7 +20,7 @@
 
 I’m a systems developer and DevOps engineer graduating from Chas Academy in June 2026. I recently completed a 6-month internship at **SMHI IT-Produktion** in Norrköping, where I built a complete IT infrastructure from scratch — virtualized nodes on Proxmox VE, container orchestration with Podman, identity management via FreeIPA, and automated provisioning with Ansible.
 
-My thesis project, built for SMHI’s IT security function, is a containerized CLI tool in Python that receives email via SMTP, extracts headers, URLs and attachments, and checks them against threat intelligence databases — runs isolated in Docker or Podman.
+My degree project, built for SMHI’s IT security function, is a containerized CLI tool in Python that receives email via SMTP, extracts headers, URLs and attachments, and checks them against threat intelligence databases — runs isolated in Docker or Podman.
 
 I like owning things end to end. From bare metal to running container.
 
@@ -34,6 +34,9 @@ I like owning things end to end. From bare metal to running container.
 ![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4eaa25?style=flat-square&logo=gnubash&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 
 **Containers & Orchestration**
 
@@ -65,7 +68,7 @@ I like owning things end to end. From bare metal to running container.
 
 ### [PostmortemCLI – Email Security Analyzer](https://github.com/Filipanderssondev/PostmortemCLI-email-security-analyzer)
 
-> Thesis project · SMHI IT-säkerhetsfunktionen · 2026
+> Capstone project · SMHI IT-säkerhetsfunktionen · 2026
 
 Containerized CLI tool that receives email via a built-in SMTP listener, extracts headers, URLs and attachments, and checks them against threat intelligence sources including Spamhaus, URLhaus, VirusTotal and MalwareBazaar. Stateless by design — the container self-destructs after each session.
 
